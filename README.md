@@ -8,6 +8,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -21,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->

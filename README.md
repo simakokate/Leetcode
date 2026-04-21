@@ -40,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/simakokate/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

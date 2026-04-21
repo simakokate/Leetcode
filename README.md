@@ -50,8 +50,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->

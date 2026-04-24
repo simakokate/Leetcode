@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/simakokate/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/simakokate/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/simakokate/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/simakokate/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

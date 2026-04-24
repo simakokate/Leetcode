@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/simakokate/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3110-score-of-a-string](https://github.com/simakokate/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -68,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/simakokate/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->

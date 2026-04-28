@@ -52,12 +52,14 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/simakokate/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/simakokate/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/simakokate/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/simakokate/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/simakokate/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/simakokate/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |

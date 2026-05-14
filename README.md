@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0709-to-lower-case](https://github.com/simakokate/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/simakokate/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3110-score-of-a-string](https://github.com/simakokate/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 ## Array

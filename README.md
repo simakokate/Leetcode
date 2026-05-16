@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/simakokate/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/simakokate/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
@@ -82,4 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/simakokate/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/simakokate/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/simakokate/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/simakokate/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Dynamic Programming
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/simakokate/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/simakokate/Leetcode/tree/main/0709-to-lower-case/) | Easy |

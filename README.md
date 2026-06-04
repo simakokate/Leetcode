@@ -30,6 +30,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/simakokate/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -93,4 +94,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/simakokate/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

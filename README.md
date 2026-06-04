@@ -11,6 +11,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/simakokate/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/simakokate/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -30,6 +31,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/simakokate/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/simakokate/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -97,6 +99,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/simakokate/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

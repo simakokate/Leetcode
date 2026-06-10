@@ -35,6 +35,7 @@
 | [0005-longest-palindromic-substring](https://github.com/simakokate/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/simakokate/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/simakokate/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -57,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -116,4 +119,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->

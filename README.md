@@ -48,6 +48,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/simakokate/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -55,6 +56,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Queue

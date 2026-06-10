@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/simakokate/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/simakokate/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/simakokate/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/simakokate/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/simakokate/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/simakokate/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -57,6 +59,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/simakokate/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -75,6 +78,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/simakokate/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Queue
 | Problem Name | Difficulty |

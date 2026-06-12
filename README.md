@@ -21,14 +21,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simakokate/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simakokate/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/simakokate/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simakokate/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +54,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/simakokate/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simakokate/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/simakokate/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -127,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/simakokate/Leetcode/tree/main/0079-word-search/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simakokate/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/simakokate/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/simakokate/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0221-maximal-square](https://github.com/simakokate/Leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/simakokate/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/simakokate/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/simakokate/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Matrix
@@ -86,6 +87,7 @@
 | [0155-min-stack](https://github.com/simakokate/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/simakokate/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/simakokate/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/simakokate/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/simakokate/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -144,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/simakokate/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/simakokate/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
